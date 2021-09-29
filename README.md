@@ -1,13 +1,13 @@
 # MyTech® - Your Technology --- Django Ecommerce App with Advanced Features
 
-### Frontend:
+### Frontend
 
 - Templates downloaded for free from https://www.templateshub.net/template/Electro-eCommerce-Website-Templates 
   I modified few parts to meet the required specifications. Else, backend is coded and integrated from the scratch.
   
 - Templates I coded: cart.html, checkout.html, accounts tempaltes, order templates
 
-#### Programming Languages used:
+#### Programming Languages used
 
 - JavaScript, jQuery and Django templating language
 
