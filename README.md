@@ -18,11 +18,11 @@ Install `requirements.txt` in your `venv` or `pipenv` like I did.
 
 #### Programming Languages used
 
-- JavaScript, jQuery and Django templating language
+- `JavaScript`, `jQuery` and `Django templating language`
 
 ### Backend 
 
-- Django and Python
+- `Django` and `Python`
 
 
 ## Project current functionalities
