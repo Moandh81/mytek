@@ -76,7 +76,7 @@ Install `requirements.txt` in your `venv` or `pipenv` like I did.
 - CACHE
 - Sub-Categories
 - Live Chat Support
-- Change Email Support
+- Change Email address
 - Newsletter
 - Wishlist
 
