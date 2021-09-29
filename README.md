@@ -16,7 +16,7 @@ Install `requirements.txt` in your `venv` or `pipenv` like I did.
 - Templates downloaded for free from https://www.templateshub.net/template/Electro-eCommerce-Website-Templates 
   I modified few parts to meet the required specifications. Else, backend is coded and integrated from the scratch.
   
-- Templates I coded: cart.html, checkout.html, accounts tempaltes, order templates
+- Templates I coded: cart.html, checkout.html, accounts templates, order templates
 
 #### Programming Languages used
 
