@@ -2,6 +2,8 @@
 
 ![mytech.gif](https://github.com/IT-Support-L2/mytek/blob/master/mytech.gif)
 
+### Images and Prices are only used for Demo purpose! 
+
 ### Admin credentials
 
 Email address: `admin@mytek.com` 
