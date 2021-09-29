@@ -67,9 +67,11 @@ Install `requirements.txt` in your `venv` or `pipenv` like I did.
 - `Order review` before confirmation
 - `Order receipt`
 
-### Python-decouple
 
-### Admin Honeypot
+### Admin Functionalities
+
+- Python-decouple
+- Admin Honeypot
 
 ### Project Live Demo will be set on AWS Elastic Beanstalk by 1 October, 2021
 
