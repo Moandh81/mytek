@@ -1,5 +1,7 @@
 # MyTech® - Your Technology --- Django Ecommerce App with Advanced Features
 
+![mytech.gif](https://github.com/IT-Support-L2/mytek/blob/master/mytech.gif)
+
 ### Admin credentials
 
 Email address: `admin@mytek.com` 
