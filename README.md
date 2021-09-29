@@ -1,5 +1,14 @@
 # MyTech® - Your Technology --- Django Ecommerce App with Advanced Features
 
+### Admin credentials
+
+Email address: `support@mytek.com` 
+Password: `django2021`
+
+### Run the project
+
+Install `requirements.txt` in your `venv` or `pipenv` like I did. 
+
 ### Frontend
 
 - Templates downloaded for free from https://www.templateshub.net/template/Electro-eCommerce-Website-Templates 
