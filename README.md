@@ -2,8 +2,8 @@
 
 ### Admin credentials
 
-Email address: `support@mytek.com` 
-Password: `django2021`
+Email address: `admin@mytek.com` 
+Password: `mytek2021`
 
 ### Run the project
 
