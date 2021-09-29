@@ -58,7 +58,7 @@ Install `requirements.txt` in your `venv` or `pipenv` like I did.
 
 ### Paggination
 
-- Dynamically showing 8 products for each page
+- Products pagination
 
 ### Orders
 
